@@ -1,3 +1,3 @@
-· Practica
+# Practica
 
 Notas
