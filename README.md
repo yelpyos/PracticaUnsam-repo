@@ -1,3 +1,7 @@
 # Practica
 
 Notas
+
+## Primera 
+
+Acelerar
